@@ -1,8 +1,12 @@
 Hello, I'm Emmanuel
 
-📍Geospatial Analyst | 🌿 Environmental Scientist| 😊 Science communicator
+📍Geospatial Analyst | 🌿 Environmental Scientist| 😊 Geo-science communicator
 
-Motivated and detail-oriented environmental science graduate from Université de Lausanne (UNIL) with a strong foundation in biodiversity, agronomy, and spatial data analysis. Experienced in using tools like GIS tools (QGIS, ArcGIS Pro, PostgreSQL/PostGIS), Python and R for research and environmental risk mapping. Passionate about supporting open science and contributing to high-quality research.
+Motivated and detail-oriented environmental science graduate from [Université de Lausanne](https://www.unil.ch/unil/fr/home.html) (UNIL) with a strong foundation in biodiversity, agronomy, and spatial data analysis. 
+
+Masters in environmental science with an orientation in [natural hazards and risk](https://www.unil.ch/masterenvi/fr/home/menuinst/masters-program-1.html) and passionate about supporting open science & contributing to high-quality research.
+
+Experienced in using GIS tools (QGIS, ArcGIS Pro, PostgreSQL/PostGIS) for research and environmental risk mapping.
 
 Skilled in managing data visualization, multispectral satellite & drone imagery analysis and "vulgarisation scientifique" (Can't find the exact english translation). 
 
@@ -15,12 +19,5 @@ Collaborative, multilingual (English, French, German), and committed to using sc
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=EmezinaToshky&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=EmezinaToshky&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EmezinaToshky&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=EmezinaToshky&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
