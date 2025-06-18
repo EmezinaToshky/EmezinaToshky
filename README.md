@@ -12,9 +12,9 @@ Skilled in managing data visualization, multispectral satellite & drone imagery 
 
 Collaborative, multilingual (English, French, German), and committed to using science for sustainable land and resource management.
 
-🚀 Open to opportunities in scientific publishing, environmental consulting, or GIS-based research.
+🚀 Open to opportunities in scientific publishing, environmental consulting, or GIS-based research/projects.
 
-Currently working on Flood assessment with [Geohazard Risk Initiative](https://www.georiskmap.org/) like LST & Precipitation [tool](https://github.com/GeohazardRiskMappingInitiative/West-Africa-Climate-Assessment-Tool)
+Currently working on Flood assessment with [Geohazard Risk Initiative](https://www.georiskmap.org/) producing diverse enviromental [tools](https://github.com/GeohazardRiskMappingInitiative/West-Africa-Climate-Assessment-Tool)
 
 📍 Currently based in Switzerland | Let’s connect and build something impactful.
 
