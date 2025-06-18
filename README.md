@@ -14,7 +14,7 @@ Collaborative, multilingual (English, French, German), and committed to using sc
 
 🚀 Open to opportunities in scientific publishing, environmental consulting, or GIS-based research/projects.
 
-Currently working on Flood assessment with [Geohazard Risk Initiative](https://www.georiskmap.org/) producing diverse enviromental [tools](https://github.com/GeohazardRiskMappingInitiative/West-Africa-Climate-Assessment-Tool)
+Currently working on Flood assessment with [Geohazard Risk Initiative](https://www.georiskmap.org/) producing diverse environmental assessment [tools](https://github.com/GeohazardRiskMappingInitiative/West-Africa-Climate-Assessment-Tool)
 
 📍 Currently based in Switzerland | Let’s connect and build something impactful.
 
